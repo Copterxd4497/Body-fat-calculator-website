@@ -55,5 +55,29 @@ button {
     padding-right: 3px;
     padding-left: 3px;
     padding-bottom: 7px;
-    
+}
+.result {
+    text-align: center;
+}
+#text{
+    margin-left: 30em;
+    margin-right: 30em;
+    border-style: groove;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(163, 228, 250);
+    padding-top: 7px;
+    padding-right: 1px;
+    padding-left: 1px;
+    padding-bottom: 7px;
+}
+#detail{
+    margin-left: 30em;
+    margin-right: 30em;
+    border-style: groove;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(163, 228, 250);
+    padding-top: 7px;
+    padding-right: 1px;
+    padding-left: 1px;
+    padding-bottom: 7px;
 }
