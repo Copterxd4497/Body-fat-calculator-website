@@ -1,4 +1,4 @@
-# Body Fat Calculator
+# Body Fat Calculator website
 
 ## Overview
 The Body Fat Calculator allows users to estimate their body fat percentage based on various measurements. This tool can be useful for fitness enthusiasts, health professionals, and anyone interested in tracking their body composition.
